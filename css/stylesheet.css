@@ -2,11 +2,19 @@
   font-size: 80px;
   font-family: 'Oleo Script', Helvetica, sans-serif;
   text-align: center;
-  color: black; }
+  color: white;
+  background-color: black; }
 
 .navbar {
   background-color: black; }
   .navbar a {
     color: white; }
+
+#front-image {
+  position: absolute;
+  top: 152px;
+  left: 0px;
+  width: 1920px;
+  height: 600px; }
 
 /*# sourceMappingURL=stylesheet.css.map */
