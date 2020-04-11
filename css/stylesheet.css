@@ -1,0 +1,12 @@
+#main-heading {
+  font-size: 80px;
+  font-family: 'Oleo Script', Helvetica, sans-serif;
+  text-align: center;
+  color: black; }
+
+.navbar {
+  background-color: black; }
+  .navbar a {
+    color: white; }
+
+/*# sourceMappingURL=stylesheet.css.map */
