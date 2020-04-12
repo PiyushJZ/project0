@@ -35,3 +35,13 @@ h1 {
   content: "\21e7   ";
   font-weight: bold;
 }
+
+@media (max-width: 499px) {
+  .news-part {
+    .card-body {
+      h3 {
+        font-size: 15px;
+      }
+    }
+  }
+}
