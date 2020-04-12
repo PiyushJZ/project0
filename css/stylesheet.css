@@ -1,9 +1,11 @@
-#main-heading {
+body {
+  background-color: black; }
+
+h1 {
   font-size: 80px;
   font-family: 'Oleo Script', Helvetica, sans-serif;
   text-align: center;
-  color: white;
-  background-color: black; }
+  color: white; }
 
 .navbar {
   background-color: black; }
@@ -11,10 +13,18 @@
     color: white; }
 
 #front-image {
-  position: absolute;
-  top: 152px;
-  left: 0px;
-  width: 1920px;
+  width: 1900px;
   height: 600px; }
+
+.footer {
+  position: static;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center; }
+
+#topp::before {
+  content: "\21e7   ";
+  font-weight: bold; }
 
 /*# sourceMappingURL=stylesheet.css.map */
